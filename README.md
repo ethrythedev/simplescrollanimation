@@ -1,2 +1,2 @@
 # simplescrollanimation
-Make scroll animations easily.
+An easy animation system. Could be used for a parralax product showcase system.
